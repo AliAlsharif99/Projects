@@ -1,7 +1,7 @@
 [submodule "csc648-848-05-sw-engineering-fall-23-T05"]
   path = csc648-848-05-sw-engineering-fall-23-T05
-  url = https://github.com/AliAlsharif99/csc648-848-05-sw-engineering-fall-23-T05
+  url = https://github.com/AliAlsharif99/csc648-848-05-sw-engineering-fall-23-T05/tree/master
 
 [submodule "csc675-775-database-systems-fall-23-AliAsharif99"]
   path = csc675-775-database-systems-fall-23-AliAlsharif99
-  url = https://github.com/AliAlsharif99/csc675-775-database-systems-fall-23-AliAsharif99
+  url = https://github.com/AliAlsharif99/csc675-775-database-systems-fall-23-AliAsharif99/tree/master
