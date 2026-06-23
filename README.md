@@ -1,4 +1,4 @@
-# UniProjs
+# University Projects
 
 This repository contains my university projects.
 
